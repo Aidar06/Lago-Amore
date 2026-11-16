@@ -1,0 +1,9 @@
+{
+  "name": "torn-lake-invitation",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "check": "node --check dist/app.js && node scripts/check.mjs"
+  }
+}
